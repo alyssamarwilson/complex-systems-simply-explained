@@ -1,2 +1,7 @@
-# complex-systems-simply-explained
-Here is how I think, how I learn, and how I help others understand technology
+#
+01-installation-storage-compute
+02-networking-with-windows-server
+03-identity-with-windows-server
+04-automate-administration-with-powershell
+05-real-world-scenarios
+images
