@@ -1,4 +1,5 @@
-# Installation, Storage, and Compute with Windows Server
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/82924d50-50c7-43cf-85ed-3c94ca30f7ed" />
+
 
 ## Building the foundation before everything else runs
 
@@ -58,6 +59,7 @@ RAID helps organize data across multiple disks for better speed, protection, or 
 
 ### Storage optimization = organizing a closet
 This is about cleaning up, removing duplicates, and making the best use of available space.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/3dc22aaa-ebf9-4c4b-8083-05c798a3ad48" />
 
 ### Hyper-V = multiple houses on one piece of land
 Hyper-V allows one physical system to host multiple virtual systems, each running like its own separate machine.
