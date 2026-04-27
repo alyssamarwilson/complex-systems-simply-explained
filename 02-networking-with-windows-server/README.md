@@ -204,8 +204,8 @@ Unlike a traditional VPN, the user does not usually have to manually click “co
 **Simple idea:**  
 DirectAccess is like an automatic secure bridge back to the company network.
 
-**Visual idea:**  
-A glowing bridge that appears automatically when a company laptop leaves the city walls.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6f13db9c-4b2d-414a-9a99-629346a24c3e" />
+
 
 ---
 
