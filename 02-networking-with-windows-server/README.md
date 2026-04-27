@@ -41,9 +41,9 @@ This section helps explain how Windows Server supports communication, addressing
 
 ---
 
-## Core concepts made simple
+# Core concepts made simple
 
-### IPv4 network = street addresses in a neighborhood
+## IPv4 network = street addresses in a neighborhood
 
 IPv4 is like the street address system for a digital neighborhood.
 
@@ -63,7 +63,7 @@ IPv4 gives devices a location on the network.
 
 ---
 
-### Subnetting = dividing a city into neighborhoods
+## Subnetting = dividing a city into neighborhoods
 
 Subnetting is like dividing one big city into smaller neighborhoods.
 
@@ -79,7 +79,7 @@ Subnetting breaks a large network into smaller, organized sections.
 
 ---
 
-### DHCP = the hotel front desk assigning room numbers
+## DHCP = the hotel front desk assigning room numbers
 
 DHCP automatically gives devices their network information.
 
@@ -100,7 +100,7 @@ DHCP saves admins from manually assigning every device an IP address.
 
 ---
 
-### DHCP lease = borrowing an address for a set amount of time
+## DHCP lease = borrowing an address for a set amount of time
 
 A DHCP lease is like borrowing a hotel room for a certain number of nights.
 
@@ -114,7 +114,7 @@ Devices do not own DHCP addresses forever. They borrow them.
 
 ---
 
-### IPv6 = a much larger address system for a growing world
+## IPv6 = a much larger address system for a growing world
 
 IPv6 is like upgrading from a small town address book to a massive global address system.
 
@@ -131,7 +131,7 @@ IPv6 gives the modern internet much more room to grow.
 
 ---
 
-### DNS = the contact book for the network
+## DNS = the contact book for the network
 
 DNS translates names into IP addresses.
 
@@ -151,7 +151,7 @@ DNS helps people use names instead of memorizing IP addresses.
 
 ---
 
-### IPAM = the city planner for IP addresses
+## IPAM = the city planner for IP addresses
 
 IPAM stands for IP Address Management.
 
@@ -167,7 +167,7 @@ IPAM helps admins organize, track, and manage IP addresses across the network.
 
 ---
 
-### Default gateway = the exit road out of your neighborhood
+## Default gateway = the exit road out of your neighborhood
 
 A default gateway is the device that helps traffic leave the local network.
 
@@ -181,7 +181,7 @@ The default gateway is the exit point from one network to another.
 
 ---
 
-### Remote access = entering the network from outside the building
+## Remote access = entering the network from outside the building
 
 Remote access allows users to connect to work resources when they are not physically in the office.
 
@@ -195,7 +195,7 @@ Remote access lets trusted users connect to internal resources from outside the 
 
 ---
 
-### DirectAccess = an automatic secure tunnel for managed devices
+## DirectAccess = an automatic secure tunnel for managed devices
 
 DirectAccess allows certain domain-joined computers to connect to the internal network automatically when they are outside the office.
 
@@ -209,7 +209,7 @@ DirectAccess is like an automatic secure bridge back to the company network.
 
 ---
 
-### VPN = a private tunnel through the internet
+## VPN = a private tunnel through the internet
 
 A VPN, or virtual private network, creates a secure tunnel between a user and a private network.
 
