@@ -1,4 +1,4 @@
- Networking with Windows Server
+## Networking with Windows Server
 
 ## Connecting the digital city
 
@@ -56,6 +56,7 @@ IPv4 helps answer:
 **Simple idea:**  
 IPv4 gives devices a location on the network.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1e0e4806-4f97-4f75-bf26-cd30c85cf77f" />
 
 
 ---
