@@ -1,5 +1,4 @@
-Networking with Windows Server
-# 02 – Networking with Windows Server
+ Networking with Windows Server
 
 ## Connecting the digital city
 
@@ -57,8 +56,7 @@ IPv4 helps answer:
 **Simple idea:**  
 IPv4 gives devices a location on the network.
 
-**Visual idea:**  
-A steampunk digital city map with houses labeled by IP addresses, roads connecting buildings, and a server tower acting like city hall.
+
 
 ---
 
