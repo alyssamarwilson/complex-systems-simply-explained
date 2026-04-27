@@ -1,16 +1,89 @@
-## Project Sections
+<p align="center">
+  <img width="100%" alt="Explore the Steampunk Digital City" src="https://github.com/user-attachments/assets/738538b8-aeb2-4692-ab1e-40c7ff241fdb" />
+</p>
 
-- [**01 – Installation, Storage, and Compute**](./01-installation-storage-compute)  
-  ⚙️ Foundations of system setup, storage, and compute.
+# 🗺️ Project Sections: Explore the Steampunk Digital City
 
-- [**02 – Networking with Windows Server**](./02-networking-with-windows-server)  
-  🌐 Beginner-friendly networking concepts and visual explanations.
+This project is organized like a connected digital city. Each section represents a core part of IT infrastructure, explained through beginner-friendly analogies, visuals, PowerShell examples, and real-world scenarios.
 
-- [**03 – Identity with Windows Server**](./03-identity-with-windows-server)  
-  🔐 Identity, authentication, access, and Active Directory made simpler.
+---
 
-- [**04 – Automate Administration with PowerShell**](./04-automate-administration-with-powershell)  
-  💻 Command breakdowns, scripting basics, and automation examples.
+# ⚙️ 01 — The Engine Room  
+### Installation, Storage, and Compute
 
-- [**05 – Real-World Scenarios & Images**](./05-real-world-scenarios-images)  
-  🖼️ Practical scenarios, visuals, and analogy-based learning.
+<p align="center">
+  <img width="85%" alt="The Engine Room - Installation, Storage, and Compute" src="https://github.com/user-attachments/assets/ffb0e5f0-4b6e-4313-af7a-bd3219a2a820" />
+</p>
+
+**What you’ll learn:**  
+How servers are installed, configured, powered, stored, and maintained.
+
+[**Enter The Engine Room →**](./01-installation-storage-compute)
+
+---
+
+# 🌐 02 — The Roadways  
+### Networking with Windows Server
+
+<p align="center">
+  <img width="85%" alt="The Roadways - Networking with Windows Server" src="https://github.com/user-attachments/assets/b2a61d5c-ce17-474b-adcd-b5ab83c827cd" />
+</p>
+
+**What you’ll learn:**  
+How devices use addresses, routes, DNS, DHCP, VPNs, and gateways to communicate.
+
+[**Travel The Roadways →**](./02-networking-with-windows-server)
+
+---
+
+# 🔐 03 — The Security Office  
+### Identity with Windows Server
+
+<p align="center">
+  <img width="85%" alt="The Security Office - Identity with Windows Server" src="https://github.com/user-attachments/assets/e2713d3c-7690-4f1c-8492-09762dccf71d" />
+</p>
+
+**What you’ll learn:**  
+How users, computers, groups, permissions, authentication, and Active Directory work.
+
+[**Visit The Security Office →**](./03-identity-with-windows-server)
+
+---
+
+# 💻 04 — The Command Tower  
+### Automate Administration with PowerShell
+
+<p align="center">
+  <img width="85%" alt="The Command Tower - PowerShell Administration" src="https://github.com/user-attachments/assets/78e449be-97af-4b6f-93c2-d4639323b8e7" />
+</p>
+
+**What you’ll learn:**  
+How commands and scripts help automate repetitive admin tasks.
+
+[**Climb The Command Tower →**](./04-automate-administration-with-powershell)
+
+---
+
+# 🖼️ 05 — The Field Guide  
+### Real-World Scenarios & Images
+
+<p align="center">
+  <img width="85%" alt="The Field Guide - Real-World Scenarios and Images" src="https://github.com/user-attachments/assets/fb357f70-cc3a-4bc9-8eb5-127385011526" />
+</p>
+
+**What you’ll learn:**  
+Practical examples, troubleshooting stories, visuals, and analogy-based explanations.
+
+[**Open The Field Guide →**](./05-real-world-scenarios-images)
+
+---
+
+## 🧭 Quick Navigation
+
+| District | Section | Focus |
+|---|---|---|
+| ⚙️ **The Engine Room** | [Installation, Storage, and Compute](./01-installation-storage-compute) | Build, store, and power systems |
+| 🌐 **The Roadways** | [Networking with Windows Server](./02-networking-with-windows-server) | Connect, route, and communicate |
+| 🔐 **The Security Office** | [Identity with Windows Server](./03-identity-with-windows-server) | Identify, authenticate, and authorize |
+| 💻 **The Command Tower** | [PowerShell Administration](./04-automate-administration-with-powershell) | Script, automate, and repeat |
+| 🖼️ **The Field Guide** | [Real-World Scenarios & Images](./05-real-world-scenarios-images) | Learn, practice, and apply |
