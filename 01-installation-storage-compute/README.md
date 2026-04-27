@@ -102,6 +102,6 @@ This helps recover earlier versions of files without rebuilding everything from 
 
 These are beginner-friendly commands that connect to this section:
 
-```powershell
-<img width="1402" height="1122" alt="336f9baa-b2f0-42e5-a214-53b193cd8e05" src="https://github.com/user-attachments/assets/18708f63-5762-4eb3-85d9-a9db17deff81" />
+<img width="900" height="720" alt="336f9baa-b2f0-42e5-a214-53b193cd8e05" src="https://github.com/user-attachments/assets/e9b2b12a-4100-4125-ba1d-f36601988f3e" />
+
 
