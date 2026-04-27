@@ -313,63 +313,7 @@ Least privilege means giving people only the access they need, not extra keys.
 **Visual idea:**  
 A security desk handing out one specific key instead of the entire master keyring.
 
----
 
-### Azure AD synchronization = connecting the local directory to the cloud
-
-Azure AD synchronization connects on-premises identities to cloud services.
-
-This allows users to sign in to cloud resources, such as Microsoft 365 or Azure-connected services, using identities that are connected to the organization’s directory.
-
-Think of it like building a secure bridge between the company’s local identity office and the cloud identity office.
-
-**Simple idea:**  
-Azure AD synchronization helps connect on-premises identities with cloud-based access.
-
-**Visual idea:**  
-A glowing bridge connecting an on-premises Active Directory city to a cloud city labeled Azure AD.
-
----
-
-### Monitoring AD DS = watching the security dashboard
-
-Monitoring AD DS means checking the health, performance, replication, sign-in activity, and errors in the environment.
-
-Admins need to know if domain controllers are working, if replication is healthy, and if unusual account activity is happening.
-
-**Simple idea:**  
-Monitoring helps administrators catch problems before they become bigger issues.
-
-**Visual idea:**  
-A steampunk dashboard with gauges for Replication, Login Activity, Domain Controller Health, and Alerts.
-
----
-
-### Troubleshooting AD DS = finding where the identity system broke
-
-When users cannot sign in or access resources, administrators need to investigate.
-
-Troubleshooting might involve checking DNS, domain controller availability, replication, account status, password issues, or Group Policy problems.
-
-**Simple idea:**  
-Troubleshooting AD DS means finding why identity or access is not working correctly.
-
-**Visual idea:**  
-A steampunk detective following clues between a user badge, DNS map, domain controller, and access door.
-
----
-
-### Recovering AD DS = restoring the security office after a problem
-
-Recovery means bringing Active Directory back after something goes wrong.
-
-This could include restoring deleted objects, recovering a domain controller, using backups, or fixing replication problems.
-
-**Simple idea:**  
-AD DS recovery helps restore identity services when something breaks.
-
-**Visual idea:**  
-A repair crew rebuilding the security office and restoring labeled identity files from a backup vault.
 
 ---
 
