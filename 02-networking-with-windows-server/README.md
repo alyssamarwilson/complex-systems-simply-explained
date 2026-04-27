@@ -144,29 +144,10 @@ For example:
 **Simple idea:**  
 DNS helps people use names instead of memorizing IP addresses.
 
-**Visual idea:**  
-A steampunk contact book or directory machine matching names to addresses.
+<img width="1448" height="1086" alt="8e30b3e5-be35-4024-97f0-87b68617cb2d" src="https://github.com/user-attachments/assets/1157a37a-e677-4580-b6a9-e205f6505ecc" />
 
----
 
-### DNS records = labeled entries in the contact book
 
-DNS records are the individual entries inside DNS.
-
-Different records do different jobs. Some point a name to an IP address. Others help mail servers, aliases, or domain services work properly.
-
-Common examples:
-
-- **A record** = name to IPv4 address
-- **AAAA record** = name to IPv6 address
-- **CNAME record** = nickname or alias
-- **MX record** = mail server information
-
-**Simple idea:**  
-DNS records tell the network how names should connect to services.
-
-**Visual idea:**  
-A mechanical filing cabinet with labeled drawers for A, AAAA, CNAME, and MX records.
 
 ---
 
@@ -181,8 +162,8 @@ Think of IPAM like a city planner with a master map of every building, street, a
 **Simple idea:**  
 IPAM helps admins organize, track, and manage IP addresses across the network.
 
-**Visual idea:**  
-A steampunk control room with a giant network map showing used, available, and reserved IP addresses.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e73f03da-1d13-45ee-a782-b45a2651ee11" />
+
 
 ---
 
@@ -195,8 +176,8 @@ If your computer wants to talk to another device in the same neighborhood, it ca
 **Simple idea:**  
 The default gateway is the exit point from one network to another.
 
-**Visual idea:**  
-A large city gate labeled “Default Gateway” with network traffic leaving the local district.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/10e2c3a1-0b16-409c-aa5b-8514f7be19f2" />
+
 
 ---
 
@@ -209,8 +190,8 @@ This matters for remote workers, traveling employees, support teams, and adminis
 **Simple idea:**  
 Remote access lets trusted users connect to internal resources from outside the network.
 
-**Visual idea:**  
-A worker outside the city using a secure bridge to enter the digital city.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/55b6b9a2-a489-4530-9f9a-e97929e152f8" />
+
 
 ---
 
@@ -237,8 +218,7 @@ The internet is public, so a VPN helps protect traffic as it travels. It is like
 **Simple idea:**  
 A VPN helps users connect securely to a private network from another location.
 
-**Visual idea:**  
-A locked underground tunnel connecting a remote laptop to the company’s server city.
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/ce586762-15f3-4c77-ac35-40fb5dffa207" />
 
 ---
 
