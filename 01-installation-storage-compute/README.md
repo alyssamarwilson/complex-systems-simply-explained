@@ -1,13 +1,14 @@
-<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/82924d50-50c7-43cf-85ed-3c94ca30f7ed" />
+<img width="1983" height="793" alt="9064604f-9ec0-465f-a09c-9d715ef9eeb6" src="https://github.com/user-attachments/assets/8b7368f4-a968-4d49-ba8c-71735d3826f4" />
 
+# Installation, Storage, and Compute with Windows Server
 
 ## Building the foundation before everything else runs
 
-This section is part of **Complex Systems, Simply Explained** — a beginner-friendly technical project designed to make core IT concepts easier to understand through analogies, visuals, PowerShell breakdowns, and practical examples.
+This section is part of **Complex Systems, Simply Explained**  a beginner-friendly technical project designed to make core IT concepts easier to understand through analogies, visuals, PowerShell breakdowns, and practical examples.
 
-When people hear “installation, storage, and compute,” it can sound dry or intimidating. But really, this is the foundation layer of IT. It is about setting up the environment, giving systems the resources they need, organizing storage, and making sure everything can run reliably.
+When people hear *installation, storage, and compute*, it can sound technical or overwhelming at first. But really, this is the foundation layer of IT. It is about setting up the server environment, giving systems the resources they need, organizing storage, and making sure everything can run reliably.
 
----
+
 
 ## What this section covers
 
@@ -38,51 +39,50 @@ This topic helps explain:
 
 ## Core concepts made simple
 
-### Server roles = job assignments
-Server roles are like job assignments in a company. One handles identity, another handles file sharing, and another handles printing or networking tasks.
-<img width="1448" height="1086" alt="0dddbc78-505b-42d8-891a-6a3ce43235df" src="https://github.com/user-attachments/assets/c9fca0f0-3f33-4e17-b975-30e162d368ad" />
+### Server roles = job assignments in a company
+A server role is like giving a worker a specific job. One might handle security, another file sharing, and another directory services.
+<img width="1448" height="1086" alt="0dddbc78-505b-42d8-891a-6a3ce43235df" src="https://github.com/user-attachments/assets/27aa180d-d756-4b9a-8654-8ce4cdf54a53" />
 
-
-### Virtual machines = apartments inside a building
-A physical server can host multiple virtual machines, just like one building can contain separate apartments. Each one has its own purpose, space, and setup.
-<img width="1448" height="1086" alt="3ab19c5f-8b01-4bf3-8897-843b489bb143" src="https://github.com/user-attachments/assets/0b1c97db-17dd-4249-849f-ebdbeb818595" />
+### Virtual machines = separate houses on one piece of land
+A physical server can host multiple virtual machines, like one piece of land holding several separate houses. Each house has its own setup, purpose, and activity, even though they share the same underlying hardware.
+<img width="1448" height="1086" alt="3ab19c5f-8b01-4bf3-8897-843b489bb143" src="https://github.com/user-attachments/assets/643b0e92-3cf7-4ce6-b72c-de7f50f10b2d" />
 
 ### CPU, memory, and storage = a kitchen workspace
 - **CPU** = the cook doing the work  
 - **Memory (RAM)** = the counter space for what is being used right now  
 - **Storage** = the pantry where things are kept long term  
-<img width="1448" height="1086" alt="0b5c8ade-d4da-4dde-8250-407c364fcace" src="https://github.com/user-attachments/assets/8b68ef72-7fcd-47e4-acc3-7e119090583a" />
+<img width="1448" height="1086" alt="0b5c8ade-d4da-4dde-8250-407c364fcace" src="https://github.com/user-attachments/assets/818c58d6-0568-40ff-a3e8-a9dcf9c9687d" />
 
 ### RAID = storing items across multiple shelves
 RAID helps organize data across multiple disks for better speed, protection, or both.
-<img width="1448" height="1086" alt="6bbe500e-8469-48e6-941d-ecaab8bbfe2d" src="https://github.com/user-attachments/assets/c32585b9-c61a-42a1-b860-8a69a9d03fa8" />
+<img width="1448" height="1086" alt="6bbe500e-8469-48e6-941d-ecaab8bbfe2d" src="https://github.com/user-attachments/assets/fcce54f0-f78f-4309-baa2-610a845a54bb" />
 
 ### Storage optimization = organizing a closet
 This is about cleaning up, removing duplicates, and making the best use of available space.
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/3dc22aaa-ebf9-4c4b-8083-05c798a3ad48" />
+<img width="1448" height="1086" alt="e7630387-5748-4cac-9ccd-8f9dedb663d9" src="https://github.com/user-attachments/assets/a6d5bca2-4e75-485b-aeaf-38085ae89314" />
 
 ### Hyper-V = multiple houses on one piece of land
 Hyper-V allows one physical system to host multiple virtual systems, each running like its own separate machine.
-<img width="1448" height="1086" alt="2d771541-86b4-4eca-b5bb-c706586c888c" src="https://github.com/user-attachments/assets/a9cbf348-2f4d-415a-823a-a890a19ab094" />
+<img width="1448" height="1086" alt="2d771541-86b4-4eca-b5bb-c706586c888c" src="https://github.com/user-attachments/assets/f2d14136-9dab-4a01-a1ad-d94293dd6c64" />
+
 
 ### Server Core vs Desktop Experience
 - **Server Core** = only the essentials, lightweight and efficient  
 - **Desktop Experience** = the full visual environment with windows and menus  
-<img width="1448" height="1086" alt="22fd402a-b626-4379-81eb-19e6a423869f" src="https://github.com/user-attachments/assets/2e7e21bd-2760-442f-aa77-c05b99a1d6cd" />
+<img width="1448" height="1086" alt="22fd402a-b626-4379-81eb-19e6a423869f" src="https://github.com/user-attachments/assets/9b704e43-ec14-4559-80b9-2508d42717ac" />
 
 ### High availability vs fault tolerance vs redundancy
 - **Redundancy** = extra backup parts  
 - **High availability** = little to no downtime  
 - **Fault tolerance** = keeps working even when something fails  
-<img width="1448" height="1086" alt="c1b5f0b3-498e-4941-9ed4-db82afd414c3" src="https://github.com/user-attachments/assets/9d123a8d-64fc-4f88-ae36-619483ada664" />
+<img width="1448" height="1086" alt="c1b5f0b3-498e-4941-9ed4-db82afd414c3" src="https://github.com/user-attachments/assets/69933176-7e9a-4eda-b8a2-e532534206be" />
 
 ### Snapshots/checkpoints = save points in a game
 They let you go back to an earlier state if something breaks during testing or changes.
-<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/20f15f6b-ad5c-4f86-a8ef-f7b8e6733231" />
 
-### Volume Shadow Copy = restore point for files
+### Volume Shadow Copy = restore points for files
 This helps recover earlier versions of files without rebuilding everything from scratch.
-<img width="1448" height="1086" alt="b4224966-d3e3-4bcb-ba2f-485f38d0857d" src="https://github.com/user-attachments/assets/156f9443-147e-4347-9cee-bcb3813e02cc" />
+<img width="1448" height="1086" alt="b4224966-d3e3-4bcb-ba2f-485f38d0857d" src="https://github.com/user-attachments/assets/96c60214-c5de-490c-ab0b-432a035929f1" />
 
 ---
 
@@ -102,6 +102,24 @@ This helps recover earlier versions of files without rebuilding everything from 
 
 These are beginner-friendly commands that connect to this section:
 
-<img width="900" height="720" alt="336f9baa-b2f0-42e5-a214-53b193cd8e05" src="https://github.com/user-attachments/assets/e9b2b12a-4100-4125-ba1d-f36601988f3e" />
+- **Get-ComputerInfo** — helps you gather overall system details like the operating system, hardware information, and system settings  
+- **Get-WindowsFeature** — shows Windows Server roles and features that are installed or available  
+- **Get-Disk** — displays physical disk information like disk number, size, and status  
+- **Get-Volume** — shows storage volumes, drive letters, file system types, and available space  
+- **Get-VM** — lists virtual machines on a Hyper-V host and shows whether they are running or off  
+- **Get-Service** — checks the status of system services, such as whether they are running or stopped  
+<img width="900" height="720" alt="336f9baa-b2f0-42e5-a214-53b193cd8e05" src="https://github.com/user-attachments/assets/cf68eca2-02ed-4fc3-9533-d3c45169dde0" />
 
+### Why someone would use these
 
+These commands help you quickly inspect the health and setup of a server. They are useful for learning, troubleshooting, checking configurations, and understanding what resources or services are available on a system.
+
+### Sample commands
+
+```powershell
+Get-ComputerInfo
+Get-WindowsFeature
+Get-Disk
+Get-Volume
+Get-VM
+Get-Service
