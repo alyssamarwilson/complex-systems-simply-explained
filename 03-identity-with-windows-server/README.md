@@ -131,8 +131,8 @@ Think of each object like a labeled card inside a giant company directory.
 **Simple idea:**  
 AD DS objects represent the people, devices, and resources in a domain.
 
-**Visual idea:**  
-A steampunk filing cabinet with drawers labeled Users, Computers, Groups, and OUs.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/5bd0644d-f3c5-4ed7-9cb6-4bf1adea864d" />
+
 
 ---
 
@@ -153,8 +153,8 @@ For example:
 **Simple idea:**  
 OUs help administrators organize and manage Active Directory objects.
 
-**Visual idea:**  
-A cabinet with separate drawers for HR, IT, Finance, and Devices.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/08c39d45-32bb-4990-856e-1b84b470e68a" /> 
+
 
 ---
 
@@ -169,8 +169,8 @@ For example, members of the “HR Team” group might get access to the HR share
 **Simple idea:**  
 Groups let administrators manage access for many users at once.
 
-**Visual idea:**  
-A bundle of matching access badges labeled “HR Team,” “IT Admins,” and “Finance Users.”
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/91c21519-8ecb-4880-9327-eea715ef4ef8" />
+
 
 ---
 
@@ -183,8 +183,8 @@ Tools like Active Directory Users and Computers let admins create users, reset p
 **Simple idea:**  
 Graphical tools make Active Directory easier to view and manage.
 
-**Visual idea:**  
-A steampunk control panel with buttons labeled Create User, Reset Password, Move Computer, and Add to Group.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/14fb09cd-0188-4161-a2b8-c08547dff043" />
+
 
 ---
 
@@ -197,8 +197,8 @@ Instead of clicking through menus, admins can use commands to create users, upda
 **Simple idea:**  
 PowerShell helps admins manage Active Directory with commands and automation.
 
-**Visual idea:**  
-A glowing command console connected to the Active Directory filing system.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c743683a-1437-4168-ae92-62c7b16d6592" />
+
 
 ---
 
