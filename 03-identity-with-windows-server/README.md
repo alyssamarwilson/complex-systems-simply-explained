@@ -213,8 +213,8 @@ Think of it like sending out a company rulebook that computers and users must fo
 **Simple idea:**  
 Group Policy applies rules and settings across users and computers.
 
-**Visual idea:**  
-A steampunk messenger delivering rulebooks to different buildings in the company city.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e6c3c081-2802-4aff-a664-c379ad2f6c6b" />
+
 
 ---
 
@@ -234,8 +234,8 @@ Think of it like rules being layered from broad to specific. Local rules apply f
 **Simple idea:**  
 LSDOU explains the order Group Policy settings are processed.
 
-**Visual idea:**  
-A layered stack of rulebooks labeled Local, Site, Domain, and OU.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/98cf8f9c-7e1e-4a53-970b-bd8358dc2535" />
+
 
 ---
 
@@ -250,8 +250,8 @@ Think of AD FS like a passport office. It confirms who you are so another truste
 **Simple idea:**  
 AD FS helps users access external applications using their organization identity.
 
-**Visual idea:**  
-A steampunk passport office issuing trusted identity passes to users traveling to cloud apps.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/843672f5-3485-4925-bba7-8b94aca79e66" />
+
 
 ---
 
@@ -266,8 +266,8 @@ Think of AD CS like an official badge-printing office. It issues trusted digital
 **Simple idea:**  
 AD CS provides digital certificates for trust and security.
 
-**Visual idea:**  
-A steampunk badge-making machine printing glowing certificates and digital ID cards.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/34a83afb-1d9f-4f9c-b08f-ebb57a419eae" />
+
 
 ---
 
@@ -282,8 +282,8 @@ Think of AD RMS like sealing a document in a magical locked envelope that only a
 **Simple idea:**  
 AD RMS helps protect sensitive information even after it leaves a shared folder.
 
-**Visual idea:**  
-A locked scroll or document vault with permissions stamped on it: Read, Print, Copy, Forward.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1e8c5a92-4d47-400f-950f-4e618905fc23" />
+
 
 ---
 
@@ -296,8 +296,8 @@ Securing accounts means using strong passwords, least privilege, account lockout
 **Simple idea:**  
 Protecting user accounts helps protect the entire environment.
 
-**Visual idea:**  
-A keyring labeled User Access, Admin Access, Password Policy, and MFA guarded inside a vault.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/51ad34ce-bf3a-4c08-8799-92a22bb4f34b" />
+
 
 ---
 
@@ -310,8 +310,8 @@ A regular user should not have administrator access unless they truly need it. T
 **Simple idea:**  
 Least privilege means giving people only the access they need, not extra keys.
 
-**Visual idea:**  
-A security desk handing out one specific key instead of the entire master keyring.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/db18cfbd-d8c3-426b-aa37-29bc22b6c32c" />
+
 
 
 
@@ -335,6 +335,8 @@ A security desk handing out one specific key instead of the entire master keyrin
 ## PowerShell examples
 
 These are beginner-friendly commands that connect to this section:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c4b45a8c-731f-4f23-b7ae-8bd4a47b90fb" />
+
 
 ```powershell
 Get-ADUser -Filter *
