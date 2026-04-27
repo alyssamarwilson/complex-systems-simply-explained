@@ -1,11 +1,9 @@
-#  Identity with Windows Server
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/5f0673cd-d21a-428b-97f6-25922426238e" />
 
-## Who are you, and what are you allowed to access?
 
-This section is part of **Complex Systems, Simply Explained** — a beginner-friendly technical project designed to make core IT concepts easier to understand through analogies, visuals, PowerShell breakdowns, and practical examples.
 
-When people hear “identity,” “authentication,” or “Active Directory,” it can sound like a locked vault full of confusing rules. But identity is really about answering two big questions:
-
+##  “Identity,” “Authentication,” or “Active Directory"
+When people hear these terms,” it can sound like a locked vault full of confusing rules. But identity is really about answering two big questions:
 - Who are you?
 - What are you allowed to access?
 
@@ -55,8 +53,8 @@ Think of it like a company’s master directory combined with a security office.
 **Simple idea:**  
 Active Directory helps organize identities and control access in a Windows environment.
 
-**Visual idea:**  
-A steampunk security office with giant filing cabinets labeled Users, Computers, Groups, and Resources.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/fadc78ac-c8b5-4bc4-baad-11853b4d6cb1" />
+
 
 ---
 
@@ -69,8 +67,7 @@ Instead of every computer having its own separate rules, a domain lets administr
 **Simple idea:**  
 A domain is a managed group of systems that trust the same identity system.
 
-**Visual idea:**  
-A walled steampunk city labeled “Company Domain,” with users, computers, and servers inside the same protected boundary.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/3f16fd39-d5ce-4f8f-a5b1-118b2bb61fba" />
 
 ---
 
@@ -83,8 +80,8 @@ When a user tries to log in, the domain controller checks their username and pas
 **Simple idea:**  
 A domain controller checks who you are before letting you into the network.
 
-**Visual idea:**  
-A steampunk security gate where a guard checks ID badges before opening the gate.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/f3b60ce1-041e-48c2-8574-376f03754346" />
+
 
 ---
 
@@ -97,8 +94,8 @@ It is like showing your ID badge at the front desk. The system checks whether yo
 **Simple idea:**  
 Authentication answers: “Are you really who you say you are?”
 
-**Visual idea:**  
-A user holding a glowing badge while a machine verifies their identity.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/4f139638-cb4d-4568-b247-71f94757ea31" />
+
 
 ---
 
@@ -111,8 +108,8 @@ Once the system knows who you are, it checks what you are allowed to do. One use
 **Simple idea:**  
 Authorization answers: “What are you allowed to access?”
 
-**Visual idea:**  
-A theme park wristband system where different wristbands open different doors.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/5db9fb99-b3af-450a-9800-c80809531909" />
+
 
 ---
 
