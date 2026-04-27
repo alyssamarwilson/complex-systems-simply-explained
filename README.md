@@ -1,15 +1,19 @@
 <p align="center">
-  <img width="100%" alt="Explore the Steampunk Digital City" src="https://github.com/user-attachments/assets/738538b8-aeb2-4692-ab1e-40c7ff241fdb" />
-</p>
+  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/33683a32-144e-47ce-ad08-100d1a257f2c" />
 
-# 🗺️ Project Sections: Explore the Steampunk Digital City
+
+<h1 align="center">Explore the Steampunk Digital City</h1>
+
+<p align="center">
+   Complex Systems, Simply Explained
+</p>
 
 This project is organized like a connected digital city. Each section represents a core part of IT infrastructure, explained through beginner-friendly analogies, visuals, PowerShell examples, and real-world scenarios.
 
 ---
 
+
 # ⚙️ 01 — The Engine Room  
-### Installation, Storage, and Compute
 
 <p align="center">
   <img width="85%" alt="The Engine Room - Installation, Storage, and Compute" src="https://github.com/user-attachments/assets/ffb0e5f0-4b6e-4313-af7a-bd3219a2a820" />
@@ -23,7 +27,6 @@ How servers are installed, configured, powered, stored, and maintained.
 ---
 
 # 🌐 02 — The Roadways  
-### Networking with Windows Server
 
 <p align="center">
   <img width="85%" alt="The Roadways - Networking with Windows Server" src="https://github.com/user-attachments/assets/b2a61d5c-ce17-474b-adcd-b5ab83c827cd" />
@@ -37,7 +40,6 @@ How devices use addresses, routes, DNS, DHCP, VPNs, and gateways to communicate.
 ---
 
 # 🔐 03 — The Security Office  
-### Identity with Windows Server
 
 <p align="center">
   <img width="85%" alt="The Security Office - Identity with Windows Server" src="https://github.com/user-attachments/assets/e2713d3c-7690-4f1c-8492-09762dccf71d" />
@@ -51,7 +53,6 @@ How users, computers, groups, permissions, authentication, and Active Directory 
 ---
 
 # 💻 04 — The Command Tower  
-### Automate Administration with PowerShell
 
 <p align="center">
   <img width="85%" alt="The Command Tower - PowerShell Administration" src="https://github.com/user-attachments/assets/78e449be-97af-4b6f-93c2-d4639323b8e7" />
@@ -65,7 +66,6 @@ How commands and scripts help automate repetitive admin tasks.
 ---
 
 # 🖼️ 05 — The Field Guide  
-### Real-World Scenarios & Images
 
 <p align="center">
   <img width="85%" alt="The Field Guide - Real-World Scenarios and Images" src="https://github.com/user-attachments/assets/fb357f70-cc3a-4bc9-8eb5-127385011526" />
