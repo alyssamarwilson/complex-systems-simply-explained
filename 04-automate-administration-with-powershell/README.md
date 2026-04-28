@@ -98,6 +98,26 @@ PowerShell commands usually tell you the action first and the target second.
 
 
 ---
+# Automate Administration with PowerShell
+
+PowerShell is the **Command Tower of the digital city**.
+
+From one place, administrators can send instructions to computers, servers, services, users, and cloud resources. Instead of manually clicking through every system, PowerShell lets you manage and automate tasks from a central console.
+
+> **Simple idea:** PowerShell helps administrators manage systems using commands.
+
+---
+
+## The Pipeline
+
+**Passing output from one command to the next**
+
+The PowerShell pipeline sends the output of one command into another command.
+
+It uses the pipe symbol:
+
+```powershell
+|
 Think of it like a factory assembly line. One station gathers items, the next filters them, and the next formats or exports them.
 
 Example
