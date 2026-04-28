@@ -73,7 +73,8 @@ Think of cmdlets like labeled levers in the command tower. Each one performs a s
 **Simple idea:**  
 Cmdlets are PowerShell commands that tell the system what to do.
 
-<img width="1448" height="1086" alt="PowerShell cmdlets visual" src="https://github.com/user-attachments/assets/0c9da9f3-faa5-4cb8-8e12-2b5058bc3ec5" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/cedbfec3-62c7-41a1-885d-452f961a9d27" />
+
 
 ---
 
@@ -95,7 +96,8 @@ It is like saying, “Bring me the service list.”
 **Simple idea:**  
 PowerShell commands usually tell you the action first and the target second.
 
-<img width="1448" height="1086" alt="Verb noun PowerShell visual" src="https://github.com/user-attachments/assets/01fd2d24-f40d-4145-92bb-060eebf47912" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/cfb6c59c-32ef-4eec-8730-e61e3616c61d" />
+
 
 ---
 
@@ -209,8 +211,8 @@ Think of scripts like instruction scrolls for the Command Tower. They tell the s
 **Simple idea:**  
 Scripts help automate repeated tasks.
 
-**Visual idea:**  
-A glowing scroll labeled `Daily Report Script` connected to gears and machines.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b7f085fc-1cc5-4539-9bdb-172f152d2f1f" />
+
 
 ---
 
@@ -232,8 +234,8 @@ Instead of repeating those steps manually every time, PowerShell can do them con
 **Simple idea:**  
 Automation helps PowerShell repeat tasks accurately and efficiently.
 
-**Visual idea:**  
-A steampunk machine repeating admin tasks while an administrator monitors the dashboard.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/7655f5bc-6f44-41b1-8827-27dfbce572dd" />
+
 
 ---
 
@@ -260,8 +262,8 @@ Get-ADGroup -Filter *
 **Simple idea:**  
 PowerShell can manage identity objects faster than clicking through menus.
 
-**Visual idea:**  
-A glowing PowerShell console connected to the Active Directory security office and filing cabinets.
+<img width="1672" height="941" alt="15364eca-7566-40db-b7b3-5dc541cc4b06" src="https://github.com/user-attachments/assets/dbc9a4fa-00eb-422a-ac79-6e69ade811ca" />
+
 
 ---
 
@@ -282,8 +284,8 @@ Get-ScheduledJob
 **Simple idea:**  
 Scheduled jobs run PowerShell tasks automatically.
 
-**Visual idea:**  
-A steampunk clock launching a report script every morning.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5339722b-9d26-4567-87cf-922eee5776ba" />
+
 
 ---
 
@@ -304,8 +306,8 @@ Get-DnsClientServerAddress
 **Simple idea:**  
 PowerShell can help troubleshoot and manage network communication.
 
-**Visual idea:**  
-A command console showing a map of roads, gateways, DNS towers, and connected devices.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/e652404d-0251-4792-b0f3-6fe46d841790" />
+
 
 ---
 
@@ -325,8 +327,8 @@ Examples:
 **Simple idea:**  
 Modules give PowerShell more commands for specific systems.
 
-**Visual idea:**  
-A shelf of labeled toolkits: Active Directory, Azure, Microsoft 365, Networking, and Reports.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/a8c94dbe-d897-4c25-9b5a-0947d01d7832" />
+
 
 ---
 
