@@ -1,6 +1,6 @@
 <img width="2048" height="768" alt="PowerShell automation banner" src="https://github.com/user-attachments/assets/ca5a90c9-491b-4d20-ac30-f85bc9339971" />
 
-# 04 – Automate Administration with PowerShell
+#  Automate Administration with PowerShell
 
 ## The Command Tower of the Digital City
 
