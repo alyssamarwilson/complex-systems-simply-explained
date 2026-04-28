@@ -74,7 +74,7 @@ How commands and scripts help automate repetitive admin tasks.
 **What you’ll learn:**  
 Practical examples, troubleshooting stories, visuals, and analogy-based explanations.
 
-[**Open The Field Guide →**](./05-real-world-scenarios-images)
+[**Open The Field Guide →**](./05-real-world-scenarios)
 
 ---
 
