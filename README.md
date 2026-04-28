@@ -65,8 +65,6 @@ How commands and scripts help automate repetitive admin tasks.
 
 ---
 
-# 🖼️ 05 — The Field Guide  
-
 <p align="center">
   <img width="85%" alt="The Field Guide - Real-World Scenarios and Images" src="https://github.com/user-attachments/assets/fb357f70-cc3a-4bc9-8eb5-127385011526" />
 </p>
@@ -74,7 +72,9 @@ How commands and scripts help automate repetitive admin tasks.
 **What you’ll learn:**  
 Practical examples, troubleshooting stories, visuals, and analogy-based explanations.
 
+
 [**Open The Field Guide →**](./05-real-world-scenarios)
+
 
 ---
 
