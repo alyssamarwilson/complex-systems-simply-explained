@@ -1,4 +1,5 @@
-<img width="2508" height="627" alt="image" src="https://github.com/user-attachments/assets/d90a6ba5-5524-415c-aa2a-31067359cbdb" />
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/ca5a90c9-491b-4d20-ac30-f85bc9339971" />
+
 
 # 04 – Automate Administration with PowerShell
 
@@ -47,12 +48,11 @@ Instead of clicking through menus one system at a time, administrators can use c
 PowerShell is like the command tower of the digital city.
 
 From one place, an administrator can send instructions to computers, servers, users, services, and cloud resources. Instead of manually visiting every system, PowerShell lets you issue commands from a central console.
+<img width="1916" height="821" alt="image" src="https://github.com/user-attachments/assets/df6cd1ae-1ab0-4bf4-8ee5-952a43cb8733" />
 
 **Simple idea:**  
 PowerShell helps administrators manage systems using commands.
 
-**Visual idea:**  
-A steampunk command tower with glowing consoles sending instructions to buildings across the city.
 
 ---
 
@@ -72,8 +72,9 @@ Think of cmdlets like labeled levers in the command tower. Each one performs a s
 **Simple idea:**  
 Cmdlets are PowerShell commands that tell the system what to do.
 
-**Visual idea:**  
-A brass control panel with levers labeled Get, Set, New, Remove, and Restart.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0c9da9f3-faa5-4cb8-8e12-2b5058bc3ec5" />
+
+
 
 ---
 
@@ -93,8 +94,8 @@ It is like saying, “Bring me the service list.”
 **Simple idea:**  
 PowerShell commands usually tell you the action first and the target second.
 
-**Visual idea:**  
-A steampunk recipe card labeled “Action + Target” with examples like Get-Service and Restart-Computer.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/01fd2d24-f40d-4145-92bb-060eebf47912" />
+
 
 ---
 
