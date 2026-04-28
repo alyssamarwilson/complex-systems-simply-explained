@@ -1,5 +1,5 @@
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/602c1187-4725-4b55-b0df-9112ca617bd6" />
 
-# The Field Guide  
 ## Real-World Scenarios
 
 This section turns technical concepts into practical, real-world examples.
