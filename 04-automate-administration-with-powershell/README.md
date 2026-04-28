@@ -1,3 +1,5 @@
+<img width="2508" height="627" alt="image" src="https://github.com/user-attachments/assets/d90a6ba5-5524-415c-aa2a-31067359cbdb" />
+
 # 04 – Automate Administration with PowerShell
 
 ## The Command Tower of the digital city
