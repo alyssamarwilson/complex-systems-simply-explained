@@ -99,11 +99,3 @@ PowerShell commands usually tell you the action first and the target second.
 
 ---
 
-### Parameters = command details
-
-Parameters give a command more specific instructions.
-
-For example:
-
-```powershell
-Get-Service -Name Spooler
