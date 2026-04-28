@@ -1,5 +1,6 @@
-<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/602c1187-4725-4b55-b0df-9112ca617bd6" />
 
+<img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/4aa424ad-aad5-44b3-a0dc-6d99a36d501b" />
+ 
 ## Real-World Scenarios
 
 This section turns technical concepts into practical, real-world examples.
@@ -18,10 +19,11 @@ The goal of this area is to show how I think through common IT situations using 
 - Visual analogies that make systems easier to understand
 
 ---
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/62453bc7-1dda-4add-a9bc-1753aa1d9d81" />
 
-## Scenario Format
 
-Each scenario is organized using this structure:
+
+## Each scenario is organized using this structure:
 
 ### 1. The Situation  
 What is happening from the user or administrator’s point of view.
@@ -60,45 +62,20 @@ The key takeaway from the scenario.
 
 ## Featured Scenario Ideas
 
-### User Cannot Sign In  
+### User Cannot Sign In
+
 A user reports they cannot log in. I would check whether the account is locked, disabled, expired, or needs a password reset.
 
-
-
-### Computer Has No Network Connection
-
-A computer cannot reach the internet or internal resources. I would check IP settings, gateway, DNS, and connectivity.
-
 Helpful commands:
 
-Get-NetIPConfiguration
-Test-Connection 8.8.8.8
-Get-DnsClientServerAddress
+```powershell
+Get-ADUser username -Properties Enabled, LockedOut, PasswordExpired
+Unlock-ADAccount username
+Set-ADAccountPassword username
 
-Simple idea:
-Networking is like the road system of the city. If something cannot connect, I need to check the address, the route, and whether the road is open.
 
-Service Is Not Running
 
-An application is not working because a required service may be stopped.
 
-Helpful commands:
 
-Get-Service
-Get-Service -Name Spooler
-Restart-Service -Name Spooler
 
-Simple idea:
-Services are like workers in the digital city. If one stops working, the system may need help restarting that worker.
 
-Why This Section Matters
-
-This section shows more than memorized commands. It shows how I approach problems:
-
-I break technical issues into smaller steps.
-I explain what is happening in plain language.
-I connect tools like PowerShell to real administrative tasks.
-I use visuals and analogies to make complex systems easier to understand.
-Goal
-
-To build a growing collection of real-world IT scenarios that connect Windows Server, networking, identity, cloud administration, and PowerShell to practical support and administration tasks.
