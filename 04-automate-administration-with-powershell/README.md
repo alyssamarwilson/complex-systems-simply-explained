@@ -122,8 +122,8 @@ This gets services, then filters the list to show only services that are current
 **Simple idea:**  
 The pipeline passes information from one command to the next.
 
-**Visual idea:**  
-A steampunk conveyor belt moving glowing data crates from `Get-Service` to `Where-Object` to `Export-Csv`.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0e2f050e-5424-42d3-b07d-804497406263" />
+
 
 ---
 
@@ -149,8 +149,8 @@ Think of parameters like settings on a machine. They adjust what the command doe
 **Simple idea:**  
 Parameters customize a command.
 
-**Visual idea:**  
-A command machine with dials labeled `Name`, `ComputerName`, `Filter`, and `Path`.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b6ecdcc0-cfc4-4417-8664-3dcc16bba2c0" />
+
 
 ---
 
@@ -171,8 +171,8 @@ This shows processes using more than a certain amount of CPU.
 **Simple idea:**  
 Filtering helps you focus on specific results.
 
-**Visual idea:**  
-A mechanical sorter separating important records from a large pile of city documents.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/9dcf5efa-6155-49f2-852e-62cd755178fb" />
+
 
 ---
 
@@ -193,8 +193,8 @@ This saves service information into a CSV file.
 **Simple idea:**  
 Output is what PowerShell gives back after a command runs.
 
-**Visual idea:**  
-A command console printing reports, charts, and logs from a brass report machine.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/82115f7a-6443-4ee8-9654-440ae6749a6c" />
+
 
 ---
 
@@ -234,49 +234,6 @@ Automation helps PowerShell repeat tasks accurately and efficiently.
 
 **Visual idea:**  
 A steampunk machine repeating admin tasks while an administrator monitors the dashboard.
-
----
-
-## Local Administration = Managing the Machine in Front of You
-
-Local administration means running PowerShell commands on the computer you are currently using.
-
-For example, you might check services, view IP settings, or list installed features on your own machine.
-
-Examples:
-
-```powershell
-Get-Service
-Get-NetIPConfiguration
-```
-
-**Simple idea:**  
-Local administration manages the computer you are currently on.
-
-**Visual idea:**  
-A small control desk connected directly to one nearby machine.
-
----
-
-## Remote Administration = Managing Systems from Across the City
-
-Remote administration lets administrators manage computers or servers without physically being at them.
-
-Think of it like sending instructions through secure communication tubes across the city.
-
-Example:
-
-```powershell
-Invoke-Command -ComputerName Server01 -ScriptBlock { Get-Service }
-```
-
-This runs a command on a remote computer.
-
-**Simple idea:**  
-Remote administration lets admins manage other systems from one place.
-
-**Visual idea:**  
-A command tower sending glowing instructions through pipes to distant server buildings.
 
 ---
 
@@ -372,58 +329,6 @@ Modules give PowerShell more commands for specific systems.
 A shelf of labeled toolkits: Active Directory, Azure, Microsoft 365, Networking, and Reports.
 
 ---
-
-## Microsoft 365 Administration = Managing the Cloud Office
-
-PowerShell can help administrators manage Microsoft 365 services.
-
-Depending on the module, admins may be able to manage:
-
-- Users
-- Groups
-- Mailboxes
-- Licenses
-- Service settings
-
-Examples:
-
-```powershell
-Install-Module Microsoft.Graph
-Connect-MgGraph
-```
-
-**Simple idea:**  
-PowerShell can manage cloud-based Microsoft 365 resources.
-
-**Visual idea:**  
-A steampunk cloud office connected to the Command Tower by glowing cables.
-
----
-
-## Azure Administration = Managing the Cloud City
-
-PowerShell can also manage Azure resources.
-
-With Azure PowerShell modules, administrators can work with resources like:
-
-- Virtual machines
-- Resource groups
-- Storage accounts
-- Networking
-- Subscriptions
-
-Examples:
-
-```powershell
-Install-Module Az
-Connect-AzAccount
-```
-
-**Simple idea:**  
-PowerShell can help manage cloud infrastructure in Azure.
-
-**Visual idea:**  
-A floating Azure cloud city with the Command Tower sending automation commands to cloud machines.
 
 ---
 
